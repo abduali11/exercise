@@ -3,7 +3,4 @@ public class App {
         return a + b;
     }
 
-public float subMethod(float a, float b) {
-        return a - b;
-    }
 }
